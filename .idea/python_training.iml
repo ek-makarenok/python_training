@@ -6,6 +6,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Python 3.4.3 virtualenv at C:\GitHub\python_training\env" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="my_homework_1" />
   </component>
   <component name="PackageRequirementsSettings">
     <option name="requirementsPath" value="" />
